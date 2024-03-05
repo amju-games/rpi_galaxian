@@ -10,7 +10,7 @@ TEST_TARGET := tests_rpigal
 
 # Source files directory
 SRCDIR := source
-TESTDIR := source/test
+TESTDIR := source/tests
 BUILDDIR := build
 OBJDIR := $(BUILDDIR)/obj
 DEPDIR := $(BUILDDIR)/dep
